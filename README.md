@@ -15,3 +15,5 @@ every now and again a ball might get trapped in an area you cannot shoot until t
 all levels are beatable!  I have tested each one on my phone.  Frustrating at times, but definitely beatable.
 
 since i've added google play and ads in other games, i didn't feel a need to practice that skill here.  enjoy the game without needing to click the "watch video ad" button, or make any real purchases.  these are not implemented but will when i make a unique game from scratch
+
+![alt-text](https://github.com/TriphiusFire/Ball-Panic/blob/master/gameplay1.png?raw=true)
