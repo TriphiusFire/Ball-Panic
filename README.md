@@ -1,5 +1,7 @@
 # Ball-Panic
 
+Beta Test the app from Google Play Store: https://play.google.com/store/apps/details?id=com.Terrafractis.BallPanic
+
 you are a guy trapped in a gauntlet of bouncy balls that will kill you on touch. 
 you shoot them with an arrow gun. 
 big balls become two little balls. 
